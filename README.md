@@ -3,7 +3,7 @@
 
 <tr></tr>
   <tr>
-    <td width=30%> 
+    <td width=50%> 
       <h2>Descrição da Equipe</h2>
       <h4>"Impulso Digital" é uma equipe criada para refletir uma abordagem criativa e conceitual, profundamente alinhada ao conceito de impulso. O nome simboliza a força invisível que estimula pensamentos, emoções e ações, traduzindo-se em um design que comunica movimento, transformação e inspiração.</h4>
       <br/><br/>
