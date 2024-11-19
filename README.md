@@ -15,13 +15,13 @@
   <tr></tr>
   <tr>
     <td colspan=2>
-      <h1 align=center>Integrantes do grupo:</h1>
-      <h4>Rubens Leandro dos Santos
-          Guilherme Matos Viana
-          Samuel de Sousa Leles
-          Levi Alves
-          Carlos Renan Carrilho Lopes Junior
-          Gabriel Silva Alves dos Santos                            <h4>
+      <h1 align=left>Integrantes do grupo:</h1>
+      <h4>Rubens Leandro dos Santos<h4>
+          <h4>Guilherme Matos Viana<h4>
+          <h4>Samuel de Sousa Leles<h4>
+          <h4>Levi Alves<h4>
+         <h4> Carlos Renan Carrilho Lopes Junior<h4>
+       <h4>   Gabriel Silva Alves dos Santos <h4>                           
     </td>
   </tr>
 </table>
