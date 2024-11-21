@@ -31,15 +31,6 @@
 
 ---
 
-<h2>🎯 Nossos Valores</h2>
-<ul>
-  <li><b>Inovação</b>: Criamos soluções criativas para problemas complexos.</li>
-  <li><b>Colaboração</b>: Trabalhamos como um time unido, compartilhando ideias e conhecimentos.</li>
-  <li><b>Impacto Positivo</b>: Nossos projetos têm como foco melhorar a vida das pessoas.</li>
-</ul>
-
----
-
 <h2>📂 Estrutura do Repositório</h2>
 <ul>
   <li><code>src/</code> - Código-fonte principal do projeto.</li>
