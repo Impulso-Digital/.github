@@ -6,7 +6,7 @@
 ---
 
 <h2>📝 Sobre o Projeto</h2>
-<p>Nosso objetivo é desenvolver soluções interativas e acessíveis que ajudem a resolver problemas reais de forma criativa e eficiente. Com foco em inovação e simplicidade, buscamos conectar tecnologia a pessoas.</p>
+<p>Nosso objetivo é resolver o problema dos alunos da disciplina de Design Computacional em apresentar e compilar de forma organizada e acessível os projetos produzidos pelos alunos, visando torná-los compreensíveis e atrativos para monitores, alunos atuais, potenciais futuros alunos e demais interessados na disciplina..</p>
 
 ---
 
