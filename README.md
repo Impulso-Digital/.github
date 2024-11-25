@@ -1,7 +1,8 @@
 <h1 align="center">Impulso Digital</h1>
 <p align="center"><i>Movimento, transformação e inspiração.</i></p>
 
-<p>"Impulso Digital" é uma equipe criada para refletir uma abordagem criativa e conceitual, profundamente alinhada ao conceito de <b>impulso</b>. O nome simboliza a força invisível que estimula pensamentos, emoções e ações, traduzindo-se em um design que comunica movimento, transformação e inovação.</p>
+<p>"Impulso Digital" é uma equipe criada para refletir uma abordagem criativa e conceitual, profundamente alinhada ao conceito de <b>impulso</b>. O nome simboliza a força invisível que estimula pensamentos, emoções e ações, traduzindo-se em um design que comunica movimento, transformação e inovação.
+A identidade visual da "Impulso Digital" foi criada para refletir uma abordagem criativa e conceitual, profundamente alinhada ao conceito de impulso. O nome simboliza a força invisível que estimula pensamentos, emoções e ações, traduzindo-se em um design que comunica movimento, transformação e inspiração.</p>
 
 ---
 
@@ -27,16 +28,6 @@
   <li><b>Levi Alves</b></li>
   <li><b>Carlos Renan Carrilho Lopes Junior</b></li>
   <li><b>Gabriel Silva Alves dos Santos</b></li>
-</ul>
-
----
-
-<h2>📂 Estrutura do Repositório</h2>
-<ul>
-  <li><code>src/</code> - Código-fonte principal do projeto.</li>
-  <li><code>docs/</code> - Documentação técnica e relatórios do projeto.</li>
-  <li><code>assets/</code> - Recursos visuais, como imagens e ícones.</li>
-  <li><code>README.md</code> - Apresentação do projeto.</li>
 </ul>
 
 ---
