@@ -1,5 +1,7 @@
 <h1 align="center">Impulso Digital</h1>
-<p align="center"><i>Movimento, transformação e inspiração.</i></p>
+<h1 align="center">![Novo Projeto(1)](https://github.com/user-attachments/assets/47dd47c6-8cf2-4f29-859c-465e8adbedc7)
+</h1>
+
 
 <p>"Impulso Digital" é uma equipe criada para refletir uma abordagem criativa e conceitual, profundamente alinhada ao conceito de <b>impulso</b>. O nome simboliza a força invisível que estimula pensamentos, emoções e ações, traduzindo-se em um design que comunica movimento, transformação e inovação.
 A identidade visual da "Impulso Digital" foi criada para refletir uma abordagem criativa e conceitual, profundamente alinhada ao conceito de impulso. O nome simboliza a força invisível que estimula pensamentos, emoções e ações, traduzindo-se em um design que comunica movimento, transformação e inspiração.</p>
