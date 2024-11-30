@@ -26,7 +26,8 @@
   <li><b>Rubens Leandro dos Santos</b></li>
   <li><b>Guilherme Matos Viana</b></li>
   <li><b>Samuel de Sousa Leles</b></li>
-  <li><b>Levi Alves</b></li>
+  <li><b>Levi de Sousa Alves</b></li>
+  <li><b>Enzo Ranieri Barbosa Rodrigues da Silva</b><li>
   <li><b>Carlos Renan Carrilho Lopes Junior</b></li>
   <li><b>Gabriel Silva Alves dos Santos</b></li>
 </ul>
