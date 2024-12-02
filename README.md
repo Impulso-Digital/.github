@@ -12,6 +12,11 @@
 
 ---
 
+<h2>🎯 Funcionalidades</h2>
+<p>Aqui vai ter as funcionalidades, algum dia...</p>
+
+---
+
 <h2>🛠️ Tecnologias e Ferramentas Utilizadas</h2>
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
